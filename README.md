@@ -23,7 +23,7 @@ C#, .NET 8, ASP.NET Core
 SQL, PostgreSQL, MongoDB  
 Docker, Git, Linux (WSL)  
 CI/CD (GitLab  
-ООП, SOLID, Clean Architecture, DDD
+ООП, SOLID, Clean Architecture
 ```
 
 ---
@@ -33,8 +33,6 @@ CI/CD (GitLab
 | Название | Стек | Описание |
 |----------|------|----------|
 | **Task Management System** | .NET, EF Core, JWT, PostgreSQL | Приложение для учёта задач с авторизацией, CRUD, многослойной архитектурой |
-| **Лизинговый калькулятор** | Blazor, C#, DDD | Визуализирует стоимость и структуру лизинговых контрактов с учётом аванса и графика |
-| **CI/CD demo pipeline** | Docker, GitLab CI | Имитация пайплайна с автосборкой и деплоем |
 | **To-Do List (Clean Architecture)** | ASP.NET Core, MediatR | Разделение по слоям, архитектурные паттерны, CQRS, unit-тестирование |
 
 Подробнее — в репозиториях.
