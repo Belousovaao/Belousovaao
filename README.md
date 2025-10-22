@@ -51,6 +51,6 @@ CI/CD (GitLab
 ### 📫 Контакты
 
 - Telegram: [@Anna_Volodina24](https://t.me/Anna_Volodina24)
-- Email: belousivaao@mail.ru
+- Email: belousovaao@mail.ru
 
 ---
