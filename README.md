@@ -40,12 +40,6 @@ CI/CD (GitLab
 
 ---
 
-### 📊 GitHub Activity
-
-![Belousovaao's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Belousovaao&theme=github-compact)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
