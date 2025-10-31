@@ -41,15 +41,6 @@ CI/CD (GitLab
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Belousovaao&show_icons=true&hide_title=true&hide=contribs&theme=graywhite" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belousovaao&layout=compact&theme=graywhite" />
-</div>
-
----
-
 ### 📫 Контакты
 
 - Telegram: [@Anna_Volodina24](https://t.me/Anna_Volodina24)
