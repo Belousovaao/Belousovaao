@@ -32,10 +32,8 @@ CI/CD (GitLab
 
 | Название | Стек | Описание |
 |----------|------|----------|
-| **Task Management System** | .NET, EF Core, JWT, PostgreSQL | Приложение для учёта задач с авторизацией, CRUD, многослойной архитектурой |
-| **To-Do List (Clean Architecture)** | ASP.NET Core, MediatR | Разделение по слоям, архитектурные паттерны, CQRS, unit-тестирование 
 | **BookMood** | .NET, WPF, JSON Serialization, MVVM Pattern, C# | Приложение для учета прочтённых книг, CRUD операции, MVVM архитектруа, JSON сериализация |
-| **BookMoodMAUI** | .NET, MAUI, Enity Framework Core, MVVM Pattern, C# | Приложение для учета прочтённых книг, CRUD операции, MVVM архитектруа, хранение данных в БД |
+| **BookMoodMAUI** | .NET, MAUI, Enity Framework Core, MVVM Pattern, C# | Кроссплатформенное приложение для учета прочтённых книг, CRUD операции, MVVM архитектруа, хранение данных в БД |
 
 Подробнее — в репозиториях.
 
