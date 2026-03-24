@@ -51,10 +51,10 @@ Testcontainers
 
 | Название | Стек | Описание |
 |----------|------|----------|
-| **BookMood** | .NET, WPF, JSON Serialization, MVVM Pattern, C# | Приложение для учета прочтённых книг, CRUD операции, MVVM архитектруа, JSON сериализация |
-| **BookMoodMAUI** | .NET, MAUI, Enity Framework Core, MVVM Pattern, C# | Кроссплатформенное приложение для учета прочтённых книг, CRUD операции, MVVM архитектруа, хранение данных в БД |
+| **RentFlowAPI** | ASP.NET Core, .NET 9.0, EF Core, PostreSQL, C#, MediatR, FluentValidaton, Docker & Docker Compose, Testcontainers, xUnit, Serilog |Универсальная платформа для аренды/проката. Единая система приема и управления заявками под разные источники работы с клиентом: tg-бот, сайт и др. |
 | **VolnamiDriveBot** | .NET, Console App, C#, JSON хранение данных | Telegram-bot для сервиса проката авто с интерактивных календарём для подбора доступных для аренды дат, расчет стоимости аренды для выбранных дат |
-| **RentFlowAPI** | ASP.NET Core, EF Core, PostreSQL, MVC Controllers, C# | **Находится в разработке** Универсальная платформа для аренды/проката. Единая система приема и управления заявками под разные источники работы с клиентом: tg-бот, сайт и др. |
+| **BookMoodMAUI** | .NET, MAUI, Enity Framework Core, MVVM Pattern, C# | Кроссплатформенное приложение для учета прочтённых книг, CRUD операции, MVVM архитектруа, хранение данных в БД |
+| **BookMood** | .NET, WPF, JSON Serialization, MVVM Pattern, C# | Приложение для учета прочтённых книг, CRUD операции, MVVM архитектруа, JSON сериализация |
 
 Подробнее — в репозиториях.
 
